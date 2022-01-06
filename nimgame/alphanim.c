@@ -1,3 +1,4 @@
+//Coded by Stefan Kremer
 #include "nim.h"
 
 int main(int argc, char** argv) {
